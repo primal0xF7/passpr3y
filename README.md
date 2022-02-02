@@ -30,3 +30,6 @@ Run `./passpr3y -h` to explore options.
 1. This program comes with no promises, warranties, or apologies. 
 2. Use this program at your own risk and responsibility.
 3. When this program is used aggressively, there is a good chance that you may lock out a large number of Active Directory accounts. Refer to number 2. Default settings of this program are meant to help prevent something like that from happening.
+
+## Credits
+- Shoutout to [David McKennirey](https://github.com/davidmckennirey) for his contribution of bringing this up to Python 3.7+ as well as some documentation tweaks.
